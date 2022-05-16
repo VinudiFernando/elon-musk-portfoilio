@@ -1,0 +1,68 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Macondo&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@1,500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+ 
+ .thumbnail {
+
+    background-color: #ffa8a8;
+ }
+body {
+     margin-top: 25px;
+     background-color: black;
+ }
+ 
+ .container {
+ margin: auto;
+ width:75%;
+ border:4px solid #e00700;
+ padding: 70px;
+}
+
+.img-main {
+    width: 60%;
+    margin-left:auto;
+    margin-right:auto;
+    display:block;border-radius: 10%;
+
+}
+
+H1{
+    font-family: Playfair Display;
+    text-align: center;
+    font-size: 500%;
+    color: white;
+}
+H2{
+    font-family: macondo;
+    text-align: center;
+    color: whitesmoke;
+}
+H3{
+    font-family: Oswald;
+    text-align:center;
+    color: whitesmoke;
+}
+H4{
+    font-family: Lobster;
+    font-size: 250%;
+}
+.cite{
+    text-align: center;
+    color: white;
+
+}
+.caption {
+    font-family: mocondo;
+    text-align: center;
+    background-color: black;
+    color: aliceblue;
+}
+.col-md {
+    font-family: Oswald;
+    color: white;
+}
+footer {
+    color: white;
+    text-align: center;
+}
